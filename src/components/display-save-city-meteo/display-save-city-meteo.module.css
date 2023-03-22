@@ -1,0 +1,10 @@
+.card{
+    width: 12rem;
+    margin: 0.2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: rgba(81, 158, 221, 0.2);
+}
+.saveCities{
+    display: flex;
+}
